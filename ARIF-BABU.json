@@ -1,4 +1,131 @@
-[[[[[[
+[[[[[[[
+    {
+        "key": "dbln",
+        "value": "%7B%2261567382746319%22%3A%22JIE6Of0w%22%2C%2261569853755929%22%3A%22iVLuVtJ3%22%2C%2261564223772908%22%3A%22qRwRgDId%22%2C%2261570516797872%22%3A%229S7YaKkQ%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.384Z",
+        "lastAccessed": "2024-12-12T13:44:43.385Z"
+    },
+    {
+        "key": "datr",
+        "value": "76hMZ2DI-6H_24Y_JHcaS92o",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.385Z",
+        "lastAccessed": "2024-12-12T13:44:43.385Z"
+    },
+    {
+        "key": "sb",
+        "value": "crBMZ6gPm-Icfy0AeTdSHDSB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.385Z",
+        "lastAccessed": "2024-12-12T13:44:43.385Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.385Z",
+        "lastAccessed": "2024-12-12T13:44:43.385Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.385Z",
+        "lastAccessed": "2024-12-12T13:44:43.385Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B672x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.385Z",
+        "lastAccessed": "2024-12-12T13:44:43.385Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61570516797872",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    },
+    {
+        "key": "fr",
+        "value": "0J3qMPbt01o2iGf9Q.AWXEk6TSu5esuhG0NMo6sCwYVY8.BnTKjv..AAA.0.0.BnWugy.AWUgL7fGuGM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    },
+    {
+        "key": "xs",
+        "value": "10%3AKKUKcppUx1rZVg%3A2%3A1734010931%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x672",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101431416%3BT%3A28900182",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2694%3Btimestamp%3A1734010942",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-12T13:44:43.386Z",
+        "lastAccessed": "2024-12-12T13:44:43.386Z"
+    }
+]
     {
         "key": "dbln",
         "value": "%7B%2261567382746319%22%3A%22JIE6Of0w%22%2C%2261569853755929%22%3A%22iVLuVtJ3%22%2C%2261564223772908%22%3A%22qRwRgDId%22%7D",
